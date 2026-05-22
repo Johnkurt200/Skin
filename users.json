@@ -1,1 +1,9 @@
-{}
+{
+    "lol": {
+        "key": "lol",
+        "status": "Premium",
+        "createdAt": 1779422280636,
+        "expireAt": 4935095880636,
+        "adminNote": "Created via LmzTools Admin Panel"
+    }
+}
